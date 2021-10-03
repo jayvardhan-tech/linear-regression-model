@@ -25,8 +25,6 @@ model.fit(x,y)
 y_pred = model.predict(x)       
 y_pred
 
-y
-
 model.coef_
 
 model.intercept_
